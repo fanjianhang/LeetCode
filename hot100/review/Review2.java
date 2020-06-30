@@ -1,4 +1,4 @@
-package hot100.review;
+package review;
 
 public class Review2 {
 

@@ -1,4 +1,3 @@
-package hot100;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -26,7 +25,7 @@ public class Problem3 {
 
 class Solution3 {
     public int lengthOfLongestSubstring(String s) {
-        // 
+        //
         Set<Character> occ = new HashSet<Character>();
         int n = s.length();
         int rk = -1, ans = 0;

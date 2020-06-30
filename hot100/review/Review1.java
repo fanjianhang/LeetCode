@@ -1,4 +1,4 @@
-package hot100.review;
+package review;
 
 import java.util.HashMap;
 import java.util.Map;
